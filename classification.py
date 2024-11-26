@@ -52,5 +52,6 @@ print("prediction is:",prediction)
 predicted_species = target_names[prediction[0]]
 print("predicted species is",predicted_species)
 
+st.write("Author: Priyal Nile")
 st.write("Prediction")
 st.write(f"The predicted species is:{predicted_species}")
